@@ -1,0 +1,15 @@
+{
+  "name": "05-clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicación para consultar el clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Castro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
+}
